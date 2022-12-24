@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Alaidanengia, You are Welcome to Landmark Tesla Application Project 30.</h1>
+<h1 align="center">Alaidanengia, Welcome to Landmark Tesla Application Project 30.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising lots of Billionaires in IT.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	YOUR BEST IS YET TO COME. Thank You</h1>
+	YOUR BEST IS YET TO COME. You won't regret this decision! Thank You</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
